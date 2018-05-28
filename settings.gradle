@@ -1,1 +1,1 @@
-include ':app', ':jnidemo', ':soimport'
+include ':soimport', ':jnidemo'
